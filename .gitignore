@@ -1,0 +1,6 @@
+data
+*.o
+r
+.idea
+cmake-build-debug
+cmake-build-debug-coverage
